@@ -14,10 +14,10 @@
     "State": {
       "Definitions": {
         "Stage1": {
-          "CustomModel": "Resources/Ingredients/Herb_Hybrid_Plant_1.blockymodel",
+          "CustomModel": "Resources/Ingredients/Herbs/Hybrid/Plant/Herb_Hybrid_Plant_1.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Herb_Hybrid_Plant.png",
+              "Texture": "Resources/Ingredients/Herbs/Hybrid/Plant/Base/Herb_Hybrid_Plant.png",
               "Weight": 1
             }
           ],
@@ -34,10 +34,10 @@
           "ParticleColor": "#74a52d"
         },
         "Stage2": {
-          "CustomModel": "Resources/Ingredients/Herb_Hybrid_Plant_2.blockymodel",
+          "CustomModel": "Resources/Ingredients/Herbs/Hybrid/Plant/Herb_Hybrid_Plant_2.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Herb_Hybrid_Plant.png",
+              "Texture": "Resources/Ingredients/Herbs/Hybrid/Plant/Base/Herb_Hybrid_Plant.png",
               "Weight": 1
             }
           ],
@@ -54,10 +54,10 @@
           "ParticleColor": "#74a52d"
         },
         "StageFinal": {
-          "CustomModel": "Resources/Ingredients/Herb_Hybrid_Plant_3.blockymodel",
+          "CustomModel": "Resources/Ingredients/Herbs/Hybrid/Plant/Herb_Hybrid_Plant_3.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Herb_Hybrid_Plant.png",
+              "Texture": "Resources/Ingredients/Herbs/Hybrid/Plant/Base/Herb_Hybrid_Plant.png",
               "Weight": 1
             }
           ],

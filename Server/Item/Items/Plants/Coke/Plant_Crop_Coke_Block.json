@@ -20,10 +20,10 @@
     "State": {
       "Definitions": {
         "Stage1": {
-          "CustomModel": "Resources/Ingredients/Cocaine_Tree_1.blockymodel",
+          "CustomModel": "Resources/Ingredients/Coke/Plant/Coke_Plant_1.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Plant_Crop_Coca_3.png",
+              "Texture": "Resources/Ingredients/Coke/Plant/Plant_Crop_Coca_3.png",
               "Weight": 1
             }
           ],
@@ -39,10 +39,10 @@
           "ParticleColor": "#74a52d"
         },
         "Stage2": {
-          "CustomModel": "Resources/Ingredients/Cocaine_Tree_2.blockymodel",
+          "CustomModel": "Resources/Ingredients/Coke/Plant/Coke_Plant_2.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Plant_Crop_Coca_3.png",
+              "Texture": "Resources/Ingredients/Coke/Plant/Plant_Crop_Coca_3.png",
               "Weight": 1
             }
           ],
@@ -58,10 +58,10 @@
           "ParticleColor": "#74a52d"
         },
         "StageFinal": {
-          "CustomModel": "Resources/Ingredients/Cocaine_Tree_3.blockymodel",
+          "CustomModel": "Resources/Ingredients/Coke/Plant/Coke_Plant_3.blockymodel",
           "CustomModelTexture": [
             {
-              "Texture": "Resources/Ingredients/Plant_Crop_Coca_3.png",
+              "Texture": "Resources/Ingredients/Coke/Plant/Plant_Crop_Coca_3.png",
               "Weight": 1
             }
           ],

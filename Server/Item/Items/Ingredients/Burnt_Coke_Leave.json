@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Coke_Burned_Leave.name",
-    "Description": "server.items.Coke_Burned_Leave.description"
+    "Name": "server.items.Burnt_Coke_Leave.name",
+    "Description": "server.items.Burnt_Coke_Leave.description"
   },
   "Consumable": false,
   "Icon": "Icons/ItemsGenerated/Coke_Burned_Leave.png",
@@ -17,8 +17,8 @@
       -12
     ]
   },
-  "Texture": "Resources/Ingredients/Coke_Burned_Leave.png",
-  "Model": "Resources/Ingredients/Coke_Burned_Leave.blockymodel",
+  "Texture": "Resources/Ingredients/Coke/Ingredients/Burnt_Coke_Leave.png",
+  "Model": "Resources/Ingredients/Coke/Ingredients/Burnt_Coke_Leave.blockymodel",
   "Quality": "Junk_Quality",
   "Categories": [
     "Get_Hy_Category.Coke",
