@@ -12,9 +12,9 @@ items.Plant_Seeds_Coke.description=Use this to plant your own medicinal coke pla
 
 #    // Plants //
 
-items.Plant_Crop_Herb_Sativa_Block.name=Sativa Herb Plant
-items.Plant_Crop_Herb_Hybrid_Block.name=Hybrid Herb Plant
-items.Plant_Crop_Herb_Indica_Block.name=Indica Herb Plant
+items.Plant_Crop_Herb_Sativa_Block.name=Sativa Plant
+items.Plant_Crop_Herb_Hybrid_Block.name=Hybrid Plant
+items.Plant_Crop_Herb_Indica_Block.name=Indica Plant
 
 items.Plant_Crop_Coke_Block.name=Coke Plant
 
