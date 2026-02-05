@@ -120,7 +120,7 @@
         },
         {
           "time": 5,
-          "delta": {"x": 0.00433, "y": -0.13053, "z": -0.00057, "w": 0.99144},
+          "delta": {"x": 0.00433, "y": -0.13053, "z": -0.00057, "w": 0.99143},
           "interpolationType": "smooth"
         },
         {
@@ -244,7 +244,7 @@
       "position": [
         {
           "time": 0,
-          "delta": {"x": -4, "y": -3, "z": 2.1},
+          "delta": {"x": 0, "y": -3, "z": 2.1},
           "interpolationType": "smooth"
         }
       ],

@@ -1,10 +1,10 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Herbal_Cigarrette.name",
-    "Description": "server.items.Herbal_Cigarrette.description"
+    "Name": "server.items.Herbal_God_Joint.name",
+    "Description": "server.items.Herbal_God_Joint.description"
   },
-  "Quality": "Junk_Quality",
-  "Icon": "Icons/ItemsGenerated/Herbal_Cigarrette.png",
+  "Quality": "God_Quality",
+  "Icon": "Icons/ItemsGenerated/Herbal_God_Joint.png",
   "Categories": [
     "Get_Hy_Category.Herb",
     "Items.Foods"
@@ -13,10 +13,10 @@
     "Material": "Empty",
     "DrawType": "Model",
     "HitboxType": "Food_Small",
-    "CustomModel": "Resources/Ingredients/Herbal_Cigarrette.blockymodel",
+    "CustomModel": "Items/Consumables/Joints/Herbal_Blunt.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Ingredients/Herbal_Cigarrette.png",
+        "Texture": "Items/Consumables/Joints/Herbal_Blunt.png",
         "Weight": 1
       }
     ],
@@ -26,7 +26,7 @@
       "Soft": {}
     },
     "Light": {
-      "Color": "#421"
+      "Color": "#500"
     },
     "VariantRotation": "None",
     "RotationYawPlacementOffset": "Ninety",
@@ -37,7 +37,7 @@
         "Color": "#757070",
         "PositionOffset": {
           "Z": 0,
-          "Y": 1
+          "Y": 1.5
         }
       }
     ]
@@ -52,15 +52,15 @@
     "Compatible": true
   },
   "IconProperties": {
-    "Scale": 0.65,
+    "Scale": 0.5,
     "Rotation": [
       0,
       250,
       320
     ],
     "Translation": [
-      0,
-      -5.4
+      5,
+      -21
     ]
   },
   "Scale": 0.8,
@@ -109,11 +109,11 @@
     ]
   },
   "MaxStack": 25,
-  "Model": "Items/Consumables/Herbal_Cigarrette.blockymodel",
-  "Texture": "Items/Consumables/Herbal_Cigarrette.png",
+  "Model": "Items/Consumables/Joints/Herbal_Blunt.blockymodel",
+  "Texture": "Items/Consumables/Joints/Herbal_Blunt.png",
   "UsePlayerAnimations": true,
   "Light": {
-    "Color": "#211",
+    "Color": "#521",
     "Radius": 0
   },
   "Trails": [
@@ -128,7 +128,9 @@
       "DetachedFromModel": false,
       "Scale": 0.25,
       "PositionOffset": {
-        "Y": 0.5
+        "Y": 1.4,
+        "Z": 0,
+        "X": 0
       }
     }
   ],
@@ -145,7 +147,7 @@
       }
     ],
     "TimeSeconds": 1,
-    "RequiredMemoriesLevel": 2,
+    "RequiredMemoriesLevel": 5,
     "BenchRequirement": [
       {
         "Id": "Rolling_Station",

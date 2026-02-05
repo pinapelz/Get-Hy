@@ -34,7 +34,7 @@
           "ParticleColor": "#74a52d"
         },
         "Stage2": {
-          "CustomModel": "Resources/Ingredients/Herbs/Indica/Plant/Herb_Indica_Plant_3.blockymodel",
+          "CustomModel": "Resources/Ingredients/Herbs/Indica/Plant/Herb_Indica_Plant_2.blockymodel",
           "CustomModelTexture": [
             {
               "Texture": "Resources/Ingredients/Herbs/Indica/Plant/Exotic/Herb_Indica_Exotic_Plant.png",
