@@ -36,5 +36,10 @@
   "Categories": [
     "Get_Hy_Category.Sativa",
     "Blocks.Plants"
+  ],
+  "ResourceTypes": [
+    {
+      "Id": "Buds"
+    }
   ]
 }

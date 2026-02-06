@@ -36,5 +36,10 @@
   "Categories": [
     "Get_Hy_Category.Hybrid",
     "Blocks.Plants"
+  ],
+  "ResourceTypes": [
+    {
+      "Id": "Buds"
+    }
   ]
 }

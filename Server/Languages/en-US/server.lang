@@ -116,3 +116,7 @@ general.qualities.Street=Street-Tier
 general.qualities.Dispensary=Dispensary-Tier
 general.qualities.Exotic=Exotic-Tier
 general.qualities.God=God-Tier
+
+#    // Resource Types //
+
+resourceType.Buds.name=Herb Buds

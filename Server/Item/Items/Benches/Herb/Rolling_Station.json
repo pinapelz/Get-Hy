@@ -19,7 +19,7 @@
       },
       {
         "Quantity": 10,
-        "ItemId": "Herb_Bud"
+        "ResourceTypeId": "Buds"
       }
     ],
     "BenchRequirement": [
