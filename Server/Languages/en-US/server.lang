@@ -62,8 +62,8 @@ items.Ingredient_Ground_Herb_God.description=Fresh after grinding, the herb is n
 
 items.Coke_Leave.name=Coke Leave
 items.Coke_Leave.description=Leaves from the coke plant can be made into medicine.
-items.Coke_Burned_Leave.name=Burned Coke Leave
-items.Coke_Burned_Leave.description=These burned and dried leaves can be ground up to extract it's best qualities.
+items.Burnt_Coke_Leave.name=Burned Coke Leave
+items.Burnt_Coke_Leave.description=These burned and dried leaves can be ground up to extract it's best qualities.
 items.Ingredient_Pulverized_Coke.name=Pulverized Coke Leave
 items.Ingredient_Pulverized_Coke.description=Refine this in a Coke Processor to purify the substance.
 items.Ingredient_Processed_Coke.name=Processed Coke
