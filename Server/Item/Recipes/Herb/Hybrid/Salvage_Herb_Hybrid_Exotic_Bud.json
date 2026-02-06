@@ -1,17 +1,17 @@
 {
   "Input": [
     {
-      "ItemId": "Herb_Bud",
+      "ItemId": "Herb_Hybrid_Bud_Exotic",
       "Quantity": 1
     }
   ],
   "PrimaryOutput": {
-    "ItemId": "Ingredient_Ground_Herb",
+    "ItemId": "Ingredient_Ground_Herb_Exotic",
     "Quantity": 1
   },
   "Output": [
     {
-      "ItemId": "Ingredient_Ground_Herb",
+      "ItemId": "Ingredient_Ground_Herb_Exotic",
       "Quantity": 1
     }
   ],

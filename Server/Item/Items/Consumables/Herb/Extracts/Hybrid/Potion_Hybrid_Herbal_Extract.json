@@ -16,7 +16,7 @@
     }
   },
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Extracts",
     "Items.Potions"
   ],
   "Icon": "Icons/ItemsGenerated/Potion_Herbal_Extract.png",
@@ -142,7 +142,7 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Herb_Bag",
+        "ItemId": "Herb_Hybrid_Bag",
         "Quantity": 2
       },
       {

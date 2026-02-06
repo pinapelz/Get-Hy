@@ -6,7 +6,7 @@
   "Quality": "Exotic_Quality",
   "Icon": "Icons/ItemsGenerated/Herbal_Exotic_Joint.png",
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Joints",
     "Items.Foods"
   ],
   "BlockType": {
@@ -43,7 +43,7 @@
     ],
     "CustomModelScale": 1.15
   },
-  "ItemLevel": 10,
+  "ItemLevel": 4,
   "ResourceTypes": [
     {
       "Id": "Foods"
@@ -138,11 +138,11 @@
     "Input": [
       {
         "ItemId": "Ingredient_Fire_Essence",
-        "Quantity": 5
+        "Quantity": 10
       },
       {
-        "ItemId": "Ingredient_Ground_Herb",
-        "Quantity": 3
+        "ItemId": "Ingredient_Ground_Herb_Exotic",
+        "Quantity": 8
       }
     ],
     "TimeSeconds": 1,

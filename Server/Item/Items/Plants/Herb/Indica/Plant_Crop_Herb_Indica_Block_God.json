@@ -19,7 +19,7 @@
           "Gathering": {
             "Soft": {
               "IsWeaponBreakable": false,
-              "DropList": "Drops_Plant_Crop_Herb_Sativa_S1"
+              "DropList": "Drops_Plant_Crop_Herb_Indica_God_S1"
             }
           },
           "BlockParticleSetId": "Grass",
@@ -39,7 +39,7 @@
           "Gathering": {
             "Soft": {
               "IsWeaponBreakable": false,
-              "DropList": "Drops_Plant_Crop_Herb_Sativa_S1"
+              "DropList": "Drops_Plant_Crop_Herb_Indica_God_S1"
             }
           },
           "BlockParticleSetId": "Grass",
@@ -68,11 +68,11 @@
           },
           "Gathering": {
             "Harvest": {
-              "DropList": "Drops_Plant_Crop_Herb_Sativa_SF"
+              "DropList": "Drops_Plant_Crop_Herb_Indica_God_SF"
             },
             "Soft": {
               "IsWeaponBreakable": false,
-              "DropList": "Drops_Plant_Crop_Herb_Sativa_SF"
+              "DropList": "Drops_Plant_Crop_Herb_Indica_God_SF"
             }
           },
           "BlockParticleSetId": "Grass",
@@ -159,12 +159,12 @@
     "CustomModel": "Resources/Plants/Seeds.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Resources/Plants/Seeds_Textures/Sativa_Seed.png"
+        "Texture": "Resources/Plants/Seeds_Textures/Indica_Seed.png"
       }
     ],
     "Gathering": {
       "Soft": {
-        "DropList": "Drops_Plant_Crop_Herb_Sativa_S1"
+        "DropList": "Drops_Plant_Crop_Herb_Indica_God_S1"
       }
     }
   },

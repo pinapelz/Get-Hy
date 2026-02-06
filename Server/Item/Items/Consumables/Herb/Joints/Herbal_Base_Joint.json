@@ -6,7 +6,7 @@
   "Quality": "Junk_Quality",
   "Icon": "Icons/ItemsGenerated/Herbal_Base_Joint.png",
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Joints",
     "Items.Foods"
   ],
   "BlockType": {
@@ -43,7 +43,7 @@
     ],
     "CustomModelScale": 0.8
   },
-  "ItemLevel": 10,
+  "ItemLevel": 1,
   "ResourceTypes": [
     {
       "Id": "Foods"
@@ -137,8 +137,8 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Ingredient_Fire_Essence",
-        "Quantity": 5
+        "ItemId": "Ingredient_Life_Essence",
+        "Quantity": 3
       },
       {
         "ItemId": "Ingredient_Ground_Herb",

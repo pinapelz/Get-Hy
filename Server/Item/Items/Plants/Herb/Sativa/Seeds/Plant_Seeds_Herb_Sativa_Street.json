@@ -33,7 +33,11 @@
     "TimeSeconds": 0,
     "Input": [
       {
-        "ItemId": "Ingredient_Life_Essence",
+        "ItemId": "Plant_Seeds_Herb_Sativa_Eternal",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Ice_Essence",
         "Quantity": 6
       }
     ],
@@ -42,21 +46,21 @@
         "Type": "Crafting",
         "Id": "Farmingbench",
         "Categories": [
-          "Seeds"
+          "Herbs"
         ],
-        "RequiredTierLevel": 6
+        "RequiredTierLevel": 2
       }
     ],
     "Output": [
       {
-        "ItemId": "Plant_Seeds_Herb",
+        "ItemId": "Plant_Seeds_Herb_Sativa_Street",
         "Quantity": 1
       }
     ]
   },
   "ItemLevel": 12,
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Sativa",
     "Blocks.Plants"
   ]
 }

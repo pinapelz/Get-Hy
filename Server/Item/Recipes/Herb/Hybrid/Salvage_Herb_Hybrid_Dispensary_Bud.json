@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Herb_Hybrid_Bud_Dispensary",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Ground_Herb_Dispensary",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Ground_Herb_Dispensary",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 3
+}

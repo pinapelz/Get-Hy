@@ -32,9 +32,21 @@
   "Recipe": {
     "TimeSeconds": 0,
     "Input": [
+       {
+        "ItemId": "Plant_Seeds_Herb_Sativa_Exotic",
+        "Quantity": 1
+      },
       {
-        "ItemId": "Ingredient_Life_Essence",
-        "Quantity": 6
+        "ItemId": "Ingredient_Ice_Essence",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Void_Essence",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Fire_Essence",
+        "Quantity": 10
       }
     ],
     "BenchRequirement": [
@@ -42,21 +54,21 @@
         "Type": "Crafting",
         "Id": "Farmingbench",
         "Categories": [
-          "Seeds"
+          "Herbs"
         ],
-        "RequiredTierLevel": 6
+        "RequiredTierLevel": 8
       }
     ],
     "Output": [
       {
-        "ItemId": "Plant_Seeds_Herb",
+        "ItemId": "Plant_Seeds_Herb_Sativa_God",
         "Quantity": 1
       }
     ]
   },
   "ItemLevel": 12,
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Sativa",
     "Blocks.Plants"
   ]
 }

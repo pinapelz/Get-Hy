@@ -29,12 +29,16 @@
       -11
     ]
   },
-  "Recipe": {
+    "Recipe": {
     "TimeSeconds": 0,
     "Input": [
       {
-        "ItemId": "Ingredient_Life_Essence",
-        "Quantity": 6
+        "ItemId": "Plant_Seeds_Herb_Indica_Street",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Void_Essence",
+        "Quantity": 8
       }
     ],
     "BenchRequirement": [
@@ -42,21 +46,21 @@
         "Type": "Crafting",
         "Id": "Farmingbench",
         "Categories": [
-          "Seeds"
+          "Herbs"
         ],
-        "RequiredTierLevel": 6
+        "RequiredTierLevel": 4
       }
     ],
     "Output": [
       {
-        "ItemId": "Plant_Seeds_Herb",
+        "ItemId": "Plant_Seeds_Herb_Indica_Dispensary",
         "Quantity": 1
       }
     ]
   },
   "ItemLevel": 12,
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Indica",
     "Blocks.Plants"
   ]
 }

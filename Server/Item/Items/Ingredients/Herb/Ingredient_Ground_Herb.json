@@ -5,7 +5,7 @@
   },
   "Icon": "Icons/ItemsGenerated/Ingredient_Ground_Herb.png",
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Misc",
     "Items.Ingredients"
   ],
   "Model": "Items/Ingredients/Herb/Ingredient_Ground_Herb.blockymodel",
@@ -44,5 +44,7 @@
   "DropOnDeath": true,
   "Scale": 3,
   "UsePlayerAnimations": true,
-  "Quality": "Junk_Quality"
+  "Quality": "Junk_Quality",
+  "ItemLevel": 1,
+  "MaxStack": 100
 }

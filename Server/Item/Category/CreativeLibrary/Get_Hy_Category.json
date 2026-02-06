@@ -3,9 +3,29 @@
   "Order": 3,
   "Children": [
     {
-      "Id": "Herb",
-      "Name": "server.ui.get_hy_category.herb",
-      "Icon": "Icons/ItemCategories/Herb.png"
+      "Id": "Sativa",
+      "Name": "server.ui.get_hy_category.sativa",
+      "Icon": "Icons/ItemCategories/Sativa.png"
+    },
+    {
+      "Id": "Hybrid",
+      "Name": "server.ui.get_hy_category.hybrid",
+      "Icon": "Icons/ItemCategories/Hybrid.png"
+    },
+    {
+      "Id": "Indica",
+      "Name": "server.ui.get_hy_category.Indica",
+      "Icon": "Icons/ItemCategories/Indica.png"
+    },
+    {
+      "Id": "Joints",
+      "Name": "server.ui.get_hy_category.joints",
+      "Icon": "Icons/ItemCategories/Joints.png"
+    },
+    {
+      "Id": "Extracts",
+      "Name": "server.ui.get_hy_category.extracts",
+      "Icon": "Icons/ItemCategories/Extracts.png"
     },
     {
       "Id": "Coke",

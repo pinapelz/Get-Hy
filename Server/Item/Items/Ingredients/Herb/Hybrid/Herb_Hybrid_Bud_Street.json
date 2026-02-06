@@ -34,7 +34,7 @@
   "Quality": "Street_Quality",
   "DropOnDeath": true,
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Hybrid",
     "Blocks.Plants"
   ]
 }

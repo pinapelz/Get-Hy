@@ -5,7 +5,8 @@
   },
   "Quality": "Junk_Quality",
   "Categories": [
-    "Get_Hy_Category.Herb"
+    "Get_Hy_Category.Indica",
+    "Blocks.Plants"
   ],
   "Interactions": {
     "Secondary": "Seed_Condition"
@@ -46,40 +47,6 @@
   },
   "ItemEntity": {
     "ParticleSystemId": null
-  },
-  "Recipe": {
-    "TimeSeconds": 0,
-    "Input": [
-      {
-        "ItemId": "Ingredient_Life_Essence",
-        "Quantity": 60
-      },
-      {
-        "ItemId": "Plant_Crop_Aubergine_Item",
-        "Quantity": 30
-      },
-      {
-        "ItemId": "Plant_Seeds_Aubergine",
-        "Quantity": 1
-      }
-    ],
-    "Output": [
-      {
-        "ItemId": "Plant_Seeds_Aubergine_Eternal",
-        "Quantity": 1
-      }
-    ],
-    "BenchRequirement": [
-      {
-        "RequiredTierLevel": 5,
-        "Type": "Crafting",
-        "Id": "Farmingbench",
-        "Categories": [
-          "Seeds"
-        ]
-      }
-    ],
-    "RequiredMemoriesLevel": 4
   },
   "ItemLevel": 18,
   "Scale": 1.0,

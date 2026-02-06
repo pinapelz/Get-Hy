@@ -6,7 +6,7 @@
   "Quality": "God_Quality",
   "Icon": "Icons/ItemsGenerated/Herbal_God_Joint.png",
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Joints",
     "Items.Foods"
   ],
   "BlockType": {
@@ -138,12 +138,12 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Ingredient_Fire_Essence",
-        "Quantity": 5
+        "ItemId": "Ingredient_Lightning_Essence",
+        "Quantity": 15
       },
       {
-        "ItemId": "Ingredient_Ground_Herb",
-        "Quantity": 3
+        "ItemId": "Ingredient_Ground_Herb_God",
+        "Quantity": 10
       }
     ],
     "TimeSeconds": 1,

@@ -34,7 +34,7 @@
     "Input": [
       {
         "ItemId": "Ingredient_Life_Essence",
-        "Quantity": 6
+        "Quantity": 4
       }
     ],
     "BenchRequirement": [
@@ -44,19 +44,19 @@
         "Categories": [
           "Seeds"
         ],
-        "RequiredTierLevel": 6
+        "RequiredTierLevel": 2
       }
     ],
     "Output": [
       {
-        "ItemId": "Plant_Seeds_Herb",
+        "ItemId": "Plant_Seeds_Herb_Sativa",
         "Quantity": 1
       }
     ]
   },
   "ItemLevel": 12,
   "Categories": [
-    "Get_Hy_Category.Herb",
+    "Get_Hy_Category.Sativa",
     "Blocks.Plants"
   ]
 }
