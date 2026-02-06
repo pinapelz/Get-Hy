@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Plant_Seeds_Indica_Eternal.name",
-    "Description": "server.items.Plant_Seeds_Indica_Eternal.description"
+    "Name": "server.items.Plant_Seeds_Herb_Indica_Eternal.name",
+    "Description": "server.items.Plant_Seeds_Herb_Indica_Eternal.description"
   },
   "Quality": "Junk_Quality",
   "Categories": [
